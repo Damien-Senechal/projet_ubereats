@@ -1,0 +1,60 @@
+passer le texte et arreter de l'ecrire : done
+appuyer sur espace lance un dialogue : done
+menu pause pendant l'intro marche pas et le rendre opaque : done
+regler la musique dans le menu pause : done
+ajouter score : done
+ajouter un tuto au debut : done
+faire en sorte que l'animation pour pedaler soit coherente (soit avoir une vitesse des le debut ou augmenter l'acceleration au fur et a mesure) : done
+
+
+
+idée de Morgan :
+
+faire plusieurs boss :
+velo electrique
+trottinette electrique
+scooter
+
+idée de Pierce : 
+
+rajouter jul en musique
+
+Changelog 0.1.1 :
+
+You can now skip the text of the intro without having the letter sound in back
+Press space after the intro don't play the letter sound anymore
+Correct the button from the pause menu and make it opaque when the intro for more visibility
+Add a score on the screen and add point when you do back or frontflip
+Add a tutorial before the intro
+The pedal animation is now more coherent with the speed of the bike
+Add a skip button for the intro
+Add restart button in Pause menu/Game Over/End Screen
+Fix minor bugs
+
+
+Level 1 :
+Ecran Day 1 avec fond noir
+Intro dans un apprt vu de côté
+Player se reveille et doit s'habiller et prendre son sac
+Sortir dehors et prendre son velo
+Ensuite debut mission interface telephone selectionne ça premiere commande
+Niveau jusqu'au resto
+ensuite dialogue avec le resto
+prend la commande
+niveau jusqu'a la destination
+dialogue de livraison
+fin du niveau
+retour a l'appart
+petite sequence tele
+fin
+
+ressource requises :
+player
+avatar resto
+avatar personne
+
+assets ville :
+route
+batiment
+resto
+apparetement

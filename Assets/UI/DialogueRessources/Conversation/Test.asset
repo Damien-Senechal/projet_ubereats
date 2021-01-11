@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6f386201c0296647baa47a7b3c3c94c, type: 3}
+  m_Name: Test
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: 98ee7ee44fac3c14599a81e5d8f7107c, type: 2}
+  speakerRight: {fileID: 11400000, guid: 721d2edd1b664f041921c42f2af2e2a2, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: 98ee7ee44fac3c14599a81e5d8f7107c, type: 2}
+    text: Tomorow it's your first day of work as a delivery man in UberEat...
+  - character: {fileID: 11400000, guid: 721d2edd1b664f041921c42f2af2e2a2, type: 2}
+    text: Yes.
+  - character: {fileID: 11400000, guid: 98ee7ee44fac3c14599a81e5d8f7107c, type: 2}
+    text: "\rIt's time to test your new bike before you land in the world of work."
